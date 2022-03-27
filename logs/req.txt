@@ -1,0 +1,12 @@
+/new-page.html	 GET
+/css/style.css	 GET
+/img/img1.jpg	 GET
+/new-page.html	 GET
+/css/style.css	 GET
+/img/img1.jpg	 GET
+/new-page.html	 GET/css/style.css	 GET/img/img1.jpg	 GET/new-page.html	 GET/css/style.css	 GET/img/img1.jpg	 GET/new-page.html	 GET
+/new-page.html	 GET
+/css/style.css	 GET
+/img/img1.jpg	 GET
+/index	 GET
+/css/style.css	 GET
