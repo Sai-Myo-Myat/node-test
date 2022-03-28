@@ -1,1 +1,2 @@
-ReferenceError : fsPromses is not defined
+ReferenceError:	 fsPromies is not defined
+ReferenceError:	 fsPrmises is not defined	 /home/saimyomyat/Desktop/programming/nodejs_web_server/home/saimyomyat/Desktop/programming/nodejs_web_server/server.js
