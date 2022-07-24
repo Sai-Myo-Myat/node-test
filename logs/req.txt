@@ -1,13 +1,12 @@
-/indexdd: GET
-/css/style.css: GET
-/new-page.html: GET
-/css/style.css: GET
-/img/img1.jpg: GET
-/new-page.html: GET
-/css/style.css: GET
-/img/img1.jpg: GET
-/new-page.html: GET
-/new-page.html: GET
-/new-page.html: GET
-/css/style.css: GET
-/img/img1.jpg: GET
+20220724	21:53:40	042fb1b3-ee3c-4cb0-b97e-a35532245a8d	/: GET
+
+20220724	21:53:40	06c521a2-aa80-4c49-9962-83075fd767eb	/css/style.css: GET
+
+20220724	21:53:40	d6dee0d6-9f90-403d-bad7-a7517c0dc5a2	/favicon.ico: GET
+
+20220724	21:55:15	a1d6ffd1-66a2-4d96-b670-26063ac788b5	/: GET
+
+20220724	21:55:15	82b1171f-da52-4ff5-9adc-7e399d003487	/css/style.css: GET
+
+20220724	21:55:15	41a56685-065c-42b1-bdcb-9f8c72cbdb77	/favicon.ico: GET
+

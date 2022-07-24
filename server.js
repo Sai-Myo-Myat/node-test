@@ -12,6 +12,7 @@ const myEmitter = new Event();
 const PORT = process.env.PORT || 3500;
 myEmitter.on("log", (msg, fileName) => logEvents(msg, fileName));
 
+//second step
 const serveFile = async (contentType, filePath, response) => {
   try {
     console.log("serving file");
@@ -37,13 +38,15 @@ const serveFile = async (contentType, filePath, response) => {
   }
 };
 
+//first step, we need create a server.
 const server = http.createServer((req, res) => {
   console.log(req.url, req.method);
   myEmitter.emit("log", `${req.url}: ${req.method}\n`, "req.txt");
 
   let extension = path.extname(req.url);
+  // to check requested page and show the specific one
 
-  let contentType;
+  let contentType; // to add header, like accepting the kind of request
 
   switch (extension) {
     case ".css":
@@ -68,6 +71,7 @@ const server = http.createServer((req, res) => {
       contentType = "text/html";
   }
 
+  //for browser to know the path
   let filePath =
     contentType === "text/html" && req.url === "/"
       ? path.join(__dirname, "views", "index.html")
@@ -88,7 +92,7 @@ const server = http.createServer((req, res) => {
   } else {
     // 301 , redirect or
     // 404
-    console.log("file is not found");
+    console.log(path.parse("file not found"));
     switch (path.parse(filePath).base) {
       case "old-page.html":
         res.writeHead(301, { Location: "new-page.html" });
@@ -105,4 +109,4 @@ const server = http.createServer((req, res) => {
   }
 });
 
-server.listen(PORT, () => console.log("server is runing "));
+server.listen(PORT, () => console.log("server is runing ", PORT));
