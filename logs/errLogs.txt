@@ -1,1 +1,13 @@
-20220726	22:46:24	b5ad7f49-641e-4374-bedf-46ba50164f37	TypeError: res.sendile is not a function
+
+20220727	22:21:37	46ec7d95-0aac-4b41-8a3d-323d314d8d29	ReferenceError: path is not defined
+20220727	22:21:56	a05d190a-2fed-40ea-8e45-7ca7b8bb6ea4	ReferenceError: path is not defined
+20220727	22:22:18	4a166120-2f0c-45df-9ee8-c4d605e24171	ReferenceError: path is not defined
+20220727	23:04:49	3aba5ec7-e2d0-4ad9-8997-b73ff3c77aaf	TypeError: Cannot read properties of undefined (reading 'firstName')
+20220727	23:05:14	639ba8c2-b947-486b-be54-876cdef13bb5	TypeError: Cannot read properties of undefined (reading 'firstName')
+20220727	23:07:06	46f87565-ed33-4e27-84d3-32833647256c	TypeError: Cannot read properties of undefined (reading 'firstName')
+20220727	23:08:45	24c720f6-4d1c-4dd8-a6dd-a64484ea0954	TypeError: Cannot read properties of undefined (reading 'firstName')
+20220727	23:09:48	99c910b3-fbfd-4142-a7e0-cb5bc7d8c0dd	TypeError: Cannot read properties of undefined (reading 'firstName')
+20220727	23:10:34	d9216086-b9d3-4ad7-b4f7-2451f2c4592a	TypeError: Cannot read properties of undefined (reading 'firstName')
+20220727	23:12:31	9ac961d8-6615-4aa6-bf9c-66ec8cfaa7ed	TypeError: Cannot read properties of undefined (reading 'id')
+20220727	23:15:17	11f4092c-9cf3-4809-9691-36c494650b30	TypeError: Cannot read properties of undefined (reading 'firstName')
+20220727	23:16:01	b274995d-c5e9-4dc9-a58b-1154336b8e91	TypeError: Cannot read properties of undefined (reading 'firstName')
