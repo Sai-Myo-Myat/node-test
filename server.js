@@ -5,6 +5,10 @@ const app  = express();
 const {logger} = require('./middleware/logEvents')
 const errHandler = require('./middleware/errHandler');
 
+app.use(express.urlencoded({extended: false}));
+
+app.use(express.json());
+
 app.use(logger)
 
 app.use(express.static(path.join(__dirname, '/public')))
