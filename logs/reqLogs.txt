@@ -174,3 +174,10 @@
 20220730	00:45:33	a6266a4d-39ff-4bf3-bf52-991918014764	/register	POST	undefined
 20220730	00:45:39	dae9c502-f52f-4264-9ba3-0bb6fb16ea5e	/register	POST	undefined
 20220730	00:45:45	56c9b0cb-a9e1-4b00-9419-6454f61970b9	/register	POST	undefined
+20220803	21:48:48	527b0c21-4693-4a04-a368-445508b8952f	/	GET	undefined
+20220803	21:48:48	4b17029c-2324-47e9-a526-e33e8d2daa4b	/css/style.css	GET	undefined
+20220803	21:48:49	e32a6a8f-b624-4ff4-b94f-d99d6953aa88	/favicon.ico	GET	undefined
+20220803	22:53:03	d0ae03fe-0083-45f6-a9f5-e681dcc978ec	/	GET	undefined
+20220803	22:53:03	1d9a0e6c-7590-44ed-aa3e-cb6d822c71bf	/css/style.css	GET	undefined
+20220803	22:53:45	583d77e3-a497-4d92-8e3c-cb43b0517416	/	GET	undefined
+20220803	22:53:45	ec526bf7-cf72-4a1a-8287-495e665f5384	/css/style.css	GET	undefined
