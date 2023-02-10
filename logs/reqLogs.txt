@@ -189,3 +189,6 @@
 20230210	15:03:42	ad2e404a-0b99-435a-bba6-c5ce03cf514f	/login	GET	undefined
 20230210	15:03:42	2e516aa8-1ab8-4bfa-8e87-1c25cf6fa93a	/css/style.css	GET	undefined
 20230210	15:03:54	ec4099ec-bb2b-4217-85eb-37d55ebf42b4	/employees	GET	undefined
+20230210	23:12:47	4323f78f-8536-49e2-a5f1-bb48294c92f7	/	GET	undefined
+20230210	23:12:47	2011f104-57f8-4685-9b0a-6d8bf153d690	/css/style.css	GET	undefined
+20230210	23:12:47	d4dd0c7c-2d7b-4a4a-b754-7fc476caad9c	/favicon.ico	GET	undefined
