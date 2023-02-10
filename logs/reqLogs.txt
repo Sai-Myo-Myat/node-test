@@ -181,3 +181,11 @@
 20220803	22:53:03	1d9a0e6c-7590-44ed-aa3e-cb6d822c71bf	/css/style.css	GET	undefined
 20220803	22:53:45	583d77e3-a497-4d92-8e3c-cb43b0517416	/	GET	undefined
 20220803	22:53:45	ec526bf7-cf72-4a1a-8287-495e665f5384	/css/style.css	GET	undefined
+20230210	15:01:47	81b564c3-c523-4d88-80eb-bb0cd3dca74e	/	GET	undefined
+20230210	15:01:47	d9eaf959-c90e-437c-bf31-80bdb25582f3	/css/style.css	GET	undefined
+20230210	15:01:47	6aea317e-91ae-4d04-bb15-b790375dbe93	/favicon.ico	GET	undefined
+20230210	15:03:14	dbce9f3b-1703-4708-a19f-c54bf6c03cd6	/register	GET	undefined
+20230210	15:03:14	401500dc-37a6-46cb-bf71-78b030a71388	/css/style.css	GET	undefined
+20230210	15:03:42	ad2e404a-0b99-435a-bba6-c5ce03cf514f	/login	GET	undefined
+20230210	15:03:42	2e516aa8-1ab8-4bfa-8e87-1c25cf6fa93a	/css/style.css	GET	undefined
+20230210	15:03:54	ec4099ec-bb2b-4217-85eb-37d55ebf42b4	/employees	GET	undefined
